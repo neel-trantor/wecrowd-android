@@ -20,7 +20,7 @@ Huge shout out to these libraries!
 
 ## Usage Instructions
 1. Clone the repo
-2. Change to the repo root directory --  `$ cd ./wepay-wecrowd-mobile-android/`
+2. Change to the repo root directory --  `$ cd ./wecrowd-android/`
 4. Ensure [Android Studio](https://developer.android.com/sdk/index.html) is installed
 5. Open the project in Android Studio
 6. Ensure Android studio device settings are configured to your liking -- **Run->Edit Configurations**
